@@ -1,0 +1,25 @@
+footer {
+  max-width: 80%;
+  margin: 0 auto;
+  box-shadow: 1px 1px 3px black;
+  padding: 10px 15px;
+  border-top-left-radius: 16px;
+  border-top-right-radius: 16px;
+}
+footer {
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+footer a {
+  text-decoration: none;
+  color: black;
+}
+footer ul li {
+  list-style-type: none;
+  margin: 5px;
+}
+footer a:hover {
+  text-decoration-line: underline;
+}
